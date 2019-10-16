@@ -1,10 +1,4 @@
-# hello-world
-
-HelloWorld lambda example.
-
-The folder contains a prebuild lambda in Swift and the aws custom runtime layer.
-
-To know more on how to develop a AWS Lambda in Swift please visit [https://github.com/swift-sprinter/aws-lambda-swift-sprinter]("https://github.com/swift-sprinter/aws-lambda-swift-sprinter-core)
+# Lambda Swift HelloWorld
 
 - Use MacOS or Linux
 - Install [Docker](https://docs.docker.com/docker-for-mac/install/)
@@ -29,3 +23,5 @@ To know more on how to develop a AWS Lambda in Swift please visit [https://githu
 - Click "Add"
 - Click "Save"
 - Test the function by clicking `Test` in the top right corner
+
+To know more on how to develop a AWS Lambda in Swift please visit [https://github.com/swift-sprinter/aws-lambda-swift-sprinter]("https://github.com/swift-sprinter/aws-lambda-swift-sprinter-core)

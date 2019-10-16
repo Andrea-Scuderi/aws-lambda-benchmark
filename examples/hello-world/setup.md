@@ -240,9 +240,6 @@ end
 
 ## Swift
 
-(Note: To build the lambda in Swift you need to refer to [https://github.com/swift-sprinter/aws-lambda-swift-sprinter]("https://github.com/swift-sprinter/aws-lambda-swift-sprinter-core))
-
-
 - Use MacOS or Linux
 - Install [Docker](https://docs.docker.com/docker-for-mac/install/)
 - From command line run `make docker_build`
@@ -266,3 +263,5 @@ end
 - Click "Add"
 - Click "Save"
 - Test the function by clicking `Test` in the top right corner
+
+(Note: To know more about Lambda in Swift refer to [https://github.com/swift-sprinter/aws-lambda-swift-sprinter]("https://github.com/swift-sprinter/aws-lambda-swift-sprinter-core))

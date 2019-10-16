@@ -24,3 +24,5 @@ scenarios:
         url: '/csharp-hello'
     - get:
         url: '/fsharp-hello'
+    - get:
+        url: '/swift-hello'
